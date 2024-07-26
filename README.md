@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="200" height="150"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdyandibmhmMDQ2NHdiNXJjYjBrNHRxNnN4ZTdsY2xjM3ZnZGZubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/saurabh-tiwari-70821225a/">
