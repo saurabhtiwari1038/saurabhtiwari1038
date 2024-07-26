@@ -57,7 +57,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurabhtiwari1038&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhtiwari1038l&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhtiwari1038&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 <!--- 👋 Hi, I’m@saurabhtiwari1038
