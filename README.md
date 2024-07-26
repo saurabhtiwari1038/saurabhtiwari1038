@@ -4,16 +4,13 @@
   <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/vishwajeet-kumar-00b817239/">
+  <a href="https://www.linkedin.com/in/saurabh-tiwari-70821225a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/vishwajeet_kumar_patel/">
+  <a href="https://www.instagram.com/saurabh_tiwariji_21/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/the_dead_vibe/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a><br>
-  <img src="https://komarev.com/ghpvc/?Vishwajeet Kumar=Vishwajeet-Kumar-Patel&style=flat-square&color=blue" alt=""/>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?Saurabh Tiwari=saurabhtiwari1038&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
