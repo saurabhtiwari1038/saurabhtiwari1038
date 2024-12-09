@@ -29,8 +29,6 @@
 
 - :seedling: Exploring Web Dev and Data Structures.
 
-- 🏏: In my free time, I love to play Cricket.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-tiwari-70821225a/)
 
 
